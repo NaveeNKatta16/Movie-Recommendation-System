@@ -1,7 +1,5 @@
 **MOVIE RECOMMENDATION SYSTEM**
 
-![6365](https://user-images.githubusercontent.com/75643206/128643817-198563de-26bb-44bc-94af-982a30712414.jpg)
-
 ![Movie production W_I](https://user-images.githubusercontent.com/75643206/128644019-fcde3096-840b-4bcb-8f4e-af835d2951ff.gif)
 
 
