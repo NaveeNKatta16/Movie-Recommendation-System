@@ -1,5 +1,6 @@
 **MOVIE RECOMMENDATION SYSTEM**
 
+![6365](https://user-images.githubusercontent.com/75643206/128643817-198563de-26bb-44bc-94af-982a30712414.jpg)
 
 
 I attempted at narrating the story of film by performing an extensive exploratory data analysis on Movies Metadata collected from TMDB. I also built two extremely minimalist predictive models to predict movie revenue and movie success and visualise which features influence the output (revenue and success respectively).
